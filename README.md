@@ -18,4 +18,4 @@ The Personal To-Do List Application is a simple command-line tool built in Pytho
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/todo_app.git
+   (https://github.com/veeramallasandeep/Personal-To-Do-List-Application/tree/main)
